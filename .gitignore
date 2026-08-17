@@ -1,2 +1,4 @@
 faiss_telecom_index
 .env
+
+__pycache__/
